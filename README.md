@@ -11,8 +11,8 @@ Sample Flutter application.
 
 ## Resources
 
-- [Intro to Widgets] (https://www.youtube.com/playlist?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd)
-- [Begineer stuff] (https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+- Intro to Widgets - (https://www.youtube.com/playlist?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd)
+- Begineer stuff - (https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
 
 ## Getting Started
